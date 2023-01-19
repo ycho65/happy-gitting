@@ -10,3 +10,6 @@
 * push edits back to gh!  
   `git push`
   
+  Text Edits
+  :)
+  
